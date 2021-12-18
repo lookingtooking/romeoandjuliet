@@ -1,0 +1,28 @@
+.background {
+    background-color: rgb(235, 243, 230);
+    width: 50%;
+    height: 100%;
+    position: relative;
+}
+
+.text {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.main_title {
+    color: #2e127c;
+    text-align: center;
+}
+
+.subtitle {
+    color: #8791af;
+}
+
+.maintext {
+    font-size: 16px;
+    line-height: 150%;
+}
+
+.note {
+    font: italic bold 12px Montserrat, sans-serif;
+}
